@@ -13,7 +13,7 @@
         "img": "https://via.placeholder.com/150",
         "imgS": "https://via.placeholder.com/50",
         "name": "телефон",
-        "text": "ай хрень последнего покаления",
+        "text": "ай что то там последнего покаления",
         "count": "1",
         "price": "67999"
     },
@@ -22,7 +22,7 @@
         "img": "https://via.placeholder.com/150",
         "imgS": "https://via.placeholder.com/50",
         "name": "золотая ручка",
-        "text": "ручка из шкуры с жопы дракона",
+        "text": "ручка из шкуры дракона",
         "count": "1",
         "price": "7500"
     },
@@ -31,7 +31,7 @@
         "img": "https://via.placeholder.com/150",
         "imgS": "https://via.placeholder.com/50",
         "name": "значок",
-        "text": "Значок о том, что ты дурачок",
+        "text": "Значок о том, что ты умница",
         "count": "1",
         "price": "3700"
     }

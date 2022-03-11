@@ -1,0 +1,38 @@
+[
+    {
+        "ID": "slvi12",
+        "img": "https://via.placeholder.com/150",
+        "imgS": "https://via.placeholder.com/50",
+        "name": "часы",
+        "text": "Уникальные часы которые есть только у тебя и у Путина",
+        "count": "1",
+        "price": "18800"
+    },
+    {
+        "ID": "pgyt85",
+        "img": "https://via.placeholder.com/150",
+        "imgS": "https://via.placeholder.com/50",
+        "name": "телефон",
+        "text": "ай хрень последнего покаления",
+        "count": "1",
+        "price": "67999"
+    },
+    {
+        "ID": "dudr85",
+        "img": "https://via.placeholder.com/150",
+        "imgS": "https://via.placeholder.com/50",
+        "name": "золотая ручка",
+        "text": "ручка из шкуры с жопы дракона",
+        "count": "1",
+        "price": "7500"
+    },
+    {
+        "ID": "cfly45",
+        "img": "https://via.placeholder.com/150",
+        "imgS": "https://via.placeholder.com/50",
+        "name": "значок",
+        "text": "Значок о том, что ты дурачок",
+        "count": "1",
+        "price": "3700"
+    }
+]

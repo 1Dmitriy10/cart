@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.header-top {
+    background-color: rgb(42, 205, 188);
+    width: 100%;
+    height: 100px;
+}
+.footer {
+    background-color: rgb(42, 205, 188);
+    width: 100%;
+    height: 100px;
+}
+.logo {
+    background-image: url("./logo.png");
+    background-repeat: no-repeat;
+    background-size: 78%;
+    height: 60px;
+    width: 250px;
+    color: rgb(121, 56, 119);
+}
+.box-list {
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+    justify-content: space-between;
+    gap: 30px;
+}
+.box-item {
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgb(62, 36, 114);
+    background-color: rgb(62, 36, 114);
+    color: red;
+}
+.container-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+.fas {
+    font-size: 58px;
+    color: rgb(121, 56, 119);
+}
+.cart-btn {
+    background-color: transparent;
+    border: transparent;
+    cursor: pointer;
+}
+.cart-list {
+    width: 600px;
+    height: auto;
+    background-color: rgb(179, 179, 179);
+    position: absolute;
+    align-items: flex-start;
+    justify-content: flex-start;
+    display: flex;
+    flex-direction: column;
+    padding: 30px 0;
+    top: 50px;
+    gap: 20px;
+    opacity: 0;
+}
+:hover.cart .cart-list {
+    opacity: 1;
+}
+
+.cart {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+.cart-item {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(249, 229, 229);
+    align-items: center;
+    gap: 20px;
+    width: 250px;
+}
+.btn-box {
+    display: flex;
+    gap: 30px;
+}
+.cart-img {
+    width: 103px;
+    height: 70px;
+}
+.btn {
+    width: 30px;
+    height: 20px;
+    background-color: rgb(10, 206, 16);
+}
+.open-cart {
+    background-color: transparent;
+    border: transparent;
+}
+main {
+    background-color: rgb(218, 203, 203);
+}
+.box-item__text {
+    text-align: center;
+    padding: 30px 0 20px 0;
+}
+.btn-item {
+    width: 80px;
+    height: 50px;
+    margin: 15px 0;
+    border-radius: 7px;
+    background-color: rgb(39, 160, 77);
+}

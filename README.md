@@ -15,4 +15,4 @@
  - index.html(главная страница верстки)
  - index.js(содержит все классы)
  - products.json(каталог товаров)
- - style.css(стили)
+ - style.css(стили)/
